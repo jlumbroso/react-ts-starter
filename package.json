@@ -1,7 +1,7 @@
 {
-  "name": "react-sandbox",
+  "name": "react-ts-starter",
   "version": "0.1.0",
-  "homepage": "https://jlumbroso.github.io/react-sandbox",
+  "homepage": "https://jlumbroso.github.io/react-ts-starter",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
