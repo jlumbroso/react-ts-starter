@@ -113,7 +113,15 @@ On some development environment:
 
 ## Local development
 
-These are the commands provided for local development:
+If you are cloning this repository locally, you must first install all
+packages before you can use the local environment:
+
+```
+$ git clone https://github.com/jlumbroso/react-ts-starter
+$ npm install
+```
+
+Then, these are the commands provided for local development:
 
 - `npm start` runs the app locally in development mode.
 - `npm test` runs the test runner in interactive watch mode, see
